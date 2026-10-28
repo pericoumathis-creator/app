@@ -1,0 +1,43 @@
+{
+    "mathis": {
+        "motdepasse": "8521",
+        "argent": 91125,
+        "plafon": 1000,
+        "historique": [
+            "-10\u20ac (Paiement)",
+            "-10\u20ac (Paiement)"
+        ],
+        "livret": 0
+    },
+    "dune": {
+        "motdepasse": "1234",
+        "argent": 15012,
+        "plafon": 0,
+        "historique": [],
+        "livret": 0
+    },
+    "seb": {
+        "motdepasse": "1234",
+        "argent": 7954,
+        "plafon": 0,
+        "historique": [],
+        "livret": 0
+    },
+    "thibaud": {
+        "motdepasse": "1234",
+        "argent": 1,
+        "plafon": 0,
+        "historique": [],
+        "livret": 0
+    },
+    "moi": {
+        "motdepasse": "1234",
+        "argent": 100,
+        "plafon": -500,
+        "historique": [
+            "Compte cr\u00e9\u00e9 avec succ\u00e8s."
+        ],
+        "livret": 0,
+        "bloque": false
+    }
+}
